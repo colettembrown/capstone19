@@ -1,0 +1,13 @@
+month,year,fuel,production,factory,type,unit_fuel,unit_production,day,date,MAK_Cut_fuel,MAK_Cut_production,emission_factor
+1,2017,315.35,214940.8,MAK_cut,gas_oil,kilograms,kilograms,1,2017-01-01,315.35,214940.8,3.0193349
+2,2017,265.12,190465.0,MAK_cut,gas_oil,kilograms,kilograms,1,2017-02-01,265.12,190465.0,3.0193349
+3,2017,263.83,201101.3,MAK_cut,gas_oil,kilograms,kilograms,1,2017-03-01,263.83,201101.3,3.0193349
+4,2017,271.92,191879.3,MAK_cut,gas_oil,kilograms,kilograms,1,2017-04-01,271.92,191879.3,3.0193349
+5,2017,216.98,206938.5,MAK_cut,gas_oil,kilograms,kilograms,1,2017-05-01,216.98,206938.5,3.0193349
+6,2017,109.17,169485.5,MAK_cut,gas_oil,kilograms,kilograms,1,2017-06-01,109.17,169485.5,3.0193349
+7,2017,227.85,194274.0,MAK_cut,gas_oil,kilograms,kilograms,1,2017-07-01,227.85,194274.0,3.0193349
+8,2017,165.53,174255.3,MAK_cut,gas_oil,kilograms,kilograms,1,2017-08-01,165.53,174255.3,3.0193349
+9,2017,161.64,150078.5,MAK_cut,gas_oil,kilograms,kilograms,1,2017-09-01,161.64,150078.5,3.0193349
+10,2017,265.4,167729.0,MAK_cut,gas_oil,kilograms,kilograms,1,2017-10-01,265.4,167729.0,3.0193349
+11,2017,51.49,57849.0,MAK_cut,gas_oil,kilograms,kilograms,1,2017-11-01,51.49,57849.0,3.0193349
+12,2017,206.88,60483.5,MAK_cut,gas_oil,kilograms,kilograms,1,2017-12-01,206.88,60483.5,3.0193349

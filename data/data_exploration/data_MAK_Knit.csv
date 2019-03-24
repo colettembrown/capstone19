@@ -1,0 +1,13 @@
+month,year,fuel,production,factory,type,unit_fuel,unit_production,day,date,MAK_Knit_fuel,MAK_Knit_production,emission_factor
+1,2017,3603.55,200905.3,MAK_knit,Propane,kilograms,kilograms,1,2017-01-01,3603.55,200905.3,3.02
+2,2017,16010.19,179995.05,MAK_knit,Propane,kilograms,kilograms,1,2017-02-01,16010.19,179995.05,3.02
+3,2017,17297.24,179104.85,MAK_knit,Propane,kilograms,kilograms,1,2017-03-01,17297.24,179104.85,3.02
+4,2017,16213.32,199478.05,MAK_knit,Propane,kilograms,kilograms,1,2017-04-01,16213.32,199478.05,3.02
+5,2017,22960.72,207776.63,MAK_knit,Propane,kilograms,kilograms,1,2017-05-01,22960.72,207776.63,3.02
+6,2017,19459.31,180886.6,MAK_knit,Propane,kilograms,kilograms,1,2017-06-01,19459.31,180886.6,3.02
+7,2017,12506.62,193723.3,MAK_knit,Propane,kilograms,kilograms,1,2017-07-01,12506.62,193723.3,3.02
+8,2017,13358.3,109630.55,MAK_knit,Propane,kilograms,kilograms,1,2017-08-01,13358.3,109630.55,3.02
+9,2017,11454.44,150905.27,MAK_knit,Propane,kilograms,kilograms,1,2017-09-01,11454.44,150905.27,3.02
+10,2017,17449.59,159741.96,MAK_knit,Propane,kilograms,kilograms,1,2017-10-01,17449.59,159741.96,3.02
+11,2017,12786.99,94745.3,MAK_knit,Propane,kilograms,kilograms,1,2017-11-01,12786.99,94745.3,3.02
+12,2017,12949.92,208273.29,MAK_knit,Propane,kilograms,kilograms,1,2017-12-01,12949.92,208273.29,3.02

@@ -1,0 +1,4 @@
+SOURCE,TARGET
+MAK_Knit,TintColor
+TintColor,MAK_Cut
+MAK_Cut,MCS
